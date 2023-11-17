@@ -65,17 +65,10 @@ The study constructs three types of models:
 
 The results of this study indicate that exception flow characteristics significantly contribute to explaining post-release defects. While some exception handling anti-patterns show a positive relationship with the probability of post-release defects, they should not be solely relied upon as predictors. The study underscores the need for proper exception handling practices and provides insights that can inform software development practices.
 
-## How to Use This Repository
-
-- **Data Extraction Script:** The repository includes scripts used for data extraction from the Apache Kafka repository, providing transparency into the data collection process.
-  
-- **Model Construction and Analysis:** Jupyter Notebooks are available for each type of model, detailing the steps from data preprocessing to model building and analysis.
-  
-- **Results and Visualizations:** Visualizations and results of the study are presented in a clear and interpretable manner in the Jupyter Notebooks.
 
 ## Replicate the Study
 
-If you wish to replicate or extend this study, detailed instructions and explanations are provided in the Jupyter Notebooks. Feel free to explore, analyze, and contribute to advancing our understanding of exception handling practices and their impact on software quality.
+If you wish to replicate or extend this study, detailed instructions and explanations are provided in the paper and code folder. Feel free to explore, analyze, and contribute to advancing our understanding of exception handling practices and their impact on software quality.
 
 ## References
 
