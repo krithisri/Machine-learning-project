@@ -1,7 +1,5 @@
-# Machine-learning-project
+# Exception Handling Practices and Post-release Defects Study
 This is part of the project for course: SOEN 6591 in Data Mining and Analysis
-
-## Exception Handling Practices and Post-release Defects Study
 
 ## Overview
 
