@@ -79,5 +79,5 @@ If you wish to replicate or extend this study, detailed instructions and explana
 
 ## References
 
-1. [Original Paper - Studying the Relationship between Exception Handling Practices and Post-release Defects](https://ieeexplore.ieee.org/document/8549152)
-2. [S. Padua and W. Shang, "Revisiting Exception Handling Practices with Exception Flow Analysis"](https://dl.acm.org/doi/10.1145/3213846.3213863)
+1. M. Wiang, ”Studying the Relationship between Exception Handling Practices and Postrelease Defects,” in IEEE Transactions on Software Engineering, vol. 45, no. 10, pp. 993-1014, Oct. 2019, doi: 10.1109/TSE.2018.2872144.
+2. S. Padua and W. Shang,”Revisiting Exception Handling Practices with Exception Flow Analysis,” in Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis, New York, NY, USA, Jul. 2018, pp. 84- 94, doi: 10.1145/3213846.3213863
