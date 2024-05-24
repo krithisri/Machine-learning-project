@@ -1,9 +1,9 @@
 # Exception Handling Practices and Post-release Defects Study
-This is part of the project for course: SOEN 6591 in Data Mining and Analysis
+This is part of the project for course in Data Mining and Analysis
 
 ## Overview
 
-Welcome to the repository for the replication study titled "Studying the Relationship between Exception Handling Practices and Post-release Defects." This research, conducted by Srikrithi Chamarthi, Anusha Yeramalla, and Bala Sharanya Devarapu from the Dept. of Engineering and Computer Science at Concordia University, Montreal, Quebec, Canada, delves into the intricate connection between exception handling practices and post-release defects in software development.
+Welcome to the repository for the replication study titled "Studying the Relationship between Exception Handling Practices and Post-release Defects." This research delves into the intricate connection between exception handling practices and post-release defects in software development.
 
 ## Abstract
 
